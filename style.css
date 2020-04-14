@@ -1,0 +1,13 @@
+html {
+    background: cadetblue;
+}
+#weatherForecast {
+    background-color: skyblue;
+}
+
+.container {
+    padding-top: 20px;
+}
+div#weatherForecast {
+    background: aliceblue;
+}
